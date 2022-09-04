@@ -1,5 +1,5 @@
 # FrontEnd-APIdeProductos
-FrontEnd que se alimenta de una API para generar vistas en HTML con Bootstrap Y JavaScript Vanilla
+FrontEnd que se alimenta de una API para generar vistas en HTML con Bootstrap Y JavaScript usando Async, Await y Fetch.
 
 Conección a una API y mostrarla con cards de Bootstrap. Creación de un menú de categorias en el navbar que conecta con otros HTML que traen distintas APIs de listas de productos por categoria
 
